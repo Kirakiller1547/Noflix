@@ -1,3 +1,15 @@
+
+<img width="1024" height="1024" alt="Copilot_20260704_212619" src="https://github.com/user-attachments/assets/e1053da8-974b-4945-8794-272d101f7803" />
+
+
+
+
+
+
+
+
+
+
 # Noflix
 Android APP to manage different Movie and TV Shows and AI websites
 
