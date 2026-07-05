@@ -30,13 +30,6 @@
 - 🎨 Clean, modern UI
 - 📱 Lightweight and offline-friendly
 
-## 📸 Screenshots
-
-| Home | Movies | AI Websites |
-|------|--------|-------------|
-| _screenshot.png_ | _screenshot.png_ | _screenshot.png_ |
-
-> Replace the placeholders above with actual screenshots (e.g. drag images into a GitHub issue/PR to get hosted URLs).
 
 ## 🚀 Getting Started
 
@@ -122,12 +115,17 @@ See the full changelog and assets on the [v1.0.0 release page](https://github.co
 
 This project is developed strictly for **educational, research, and self-learning purposes** (Weiterbildung / Proof of Concept). It is not intended for commercial use, nor is it meant to facilitate copyright infringement.
 
-By using this application, you agree to the following:
+Disclaimer
 
-- **No Content Hosting** — This app does not host, store, or distribute any media files or video streams. It acts only as a technical client that accesses publicly available third-party websites.
-- **Third-Party Content** — The developer has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites. Accessing copyrighted material without permission may be illegal in your jurisdiction.
-- **Use at Your Own Risk** — Use of this software is entirely at your own risk. You are solely responsible for complying with local laws and the terms of service of any websites accessed through this app.
-- **As-Is Basis** — This software is provided "as is," without warranties of any kind, express or implied. The developer is not liable for any claims, damages, or legal issues arising from its use.
+By using this application, you acknowledge and agree to the following:
+
+Link Management Only — This application functions solely as a bookmark and launcher for websites specified by the user. It does not host, store, cache, stream, distribute, or otherwise provide any media files or content.
+User-Added Links — Website links and associated icons may be added or modified by users. The developer does not review, verify, endorse, or control user-added links or the content available through them.
+Third-Party Websites — All websites accessed through this application are operated by independent third parties. The developer has no control over and assumes no responsibility for the availability, accuracy, legality, privacy policies, practices, or content of any third-party website or service.
+No Affiliation — The developer is not affiliated with, sponsored by, or endorsed by any third-party website accessible through this application.
+User Responsibility — You are solely responsible for the websites you choose to access and for complying with all applicable laws, copyright laws, and the terms of service of those websites. Accessing copyrighted material without proper authorization may be illegal in your jurisdiction.
+Provided "As Is" — This application is provided "as is" and "as available," without warranties of any kind, whether express or implied. To the fullest extent permitted by applicable law, the developer disclaims all liability for any claims, damages, losses, or legal consequences arising from the use of this application or any third-party websites accessed through it.
+
 
 ## 🤝 Contributing
 
