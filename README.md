@@ -115,16 +115,25 @@ See the full changelog and assets on the [v1.0.0 release page](https://github.co
 
 This project is developed strictly for **educational, research, and self-learning purposes** (Weiterbildung / Proof of Concept). It is not intended for commercial use, nor is it meant to facilitate copyright infringement.
 
-Disclaimer
+
+# Disclaimer
 
 By using this application, you acknowledge and agree to the following:
 
-Link Management Only — This application functions solely as a bookmark and launcher for websites specified by the user. It does not host, store, cache, stream, distribute, or otherwise provide any media files or content.
-User-Added Links — Website links and associated icons may be added or modified by users. The developer does not review, verify, endorse, or control user-added links or the content available through them.
-Third-Party Websites — All websites accessed through this application are operated by independent third parties. The developer has no control over and assumes no responsibility for the availability, accuracy, legality, privacy policies, practices, or content of any third-party website or service.
-No Affiliation — The developer is not affiliated with, sponsored by, or endorsed by any third-party website accessible through this application.
-User Responsibility — You are solely responsible for the websites you choose to access and for complying with all applicable laws, copyright laws, and the terms of service of those websites. Accessing copyrighted material without proper authorization may be illegal in your jurisdiction.
-Provided "As Is" — This application is provided "as is" and "as available," without warranties of any kind, whether express or implied. To the fullest extent permitted by applicable law, the developer disclaims all liability for any claims, damages, losses, or legal consequences arising from the use of this application or any third-party websites accessed through it.
+* **No Content Hosting** — This application functions solely as a bookmark and launcher for websites specified by the user. It does not host, store, cache, stream, distribute, or otherwise provide any media files or content.
+
+* **User-Added Links** — Website links and associated icons may be added or modified by users. The developer does not review, verify, endorse, or control user-added links or the content available through them.
+
+* **Third-Party Websites** — All websites accessed through this application are operated by independent third parties. The developer has no control over and assumes no responsibility for the availability, accuracy, legality, privacy policies, practices, or content of any third-party website or service.
+
+* **No Affiliation** — The developer is not affiliated with, sponsored by, or endorsed by any third-party website accessible through this application.
+
+* **User Responsibility** — You are solely responsible for the websites you choose to access and for complying with all applicable laws, copyright laws, and the terms of service of those websites. Accessing copyrighted material without proper authorization may be illegal in your jurisdiction.
+
+* **Use at Your Own Risk** — Your use of this application is entirely at your own risk. The developer assumes no responsibility for how the application is used or for any consequences arising from its use.
+
+* **As-Is Basis** — This application is provided "as is" and "as available," without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. To the fullest extent permitted by applicable law, the developer disclaims all liability for any claims, damages, losses, or legal consequences arising from the use of this application or any third-party websites accessed through it.
+
 
 
 ## 🤝 Contributing
