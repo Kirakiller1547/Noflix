@@ -20,16 +20,15 @@
 
 ## 📖 About
 
-**Noflix** is an Android app that helps you organize and manage your favorite **Movies**, **TV Shows**, and **AI websites** — all in one clean, unified interface. No more juggling bookmarks or switching between apps to track what you're watching or which AI tools you use.
+**Noflix** is an Android app that helps you organize and manage bookmarks for **Movies**, **TV Shows**, and **AI websites** in one clean, unified interface — so you don't have to juggle browser bookmarks or switch between apps to keep track of what you're watching or which AI tools you use.
 
 ## ✨ Features
 
-- 🎬 Track and organize Movies & TV Shows
-- 🤖 Manage and quick-access your favorite AI websites
+- 🎬 Organize bookmarks for Movies & TV Shows
+- 🤖 Manage quick-access links to your favorite AI websites
 - 🔍 Fast search and filtering
 - 🎨 Clean, modern UI
-- 📱 Lightweight and offline-friendly
-
+- 📱 Lightweight and works offline
 
 ## 🚀 Getting Started
 
@@ -45,7 +44,7 @@
 
 ```bash
 git clone https://github.com/Kirakiller1547/Noflix.git
-cd noflix
+cd Noflix
 ```
 
 ### Build the project
@@ -54,7 +53,7 @@ cd noflix
 ./gradlew build
 ```
 
-### Run on a connected device/emulator
+### Run on a connected device or emulator
 
 ```bash
 ./gradlew installDebug
@@ -67,6 +66,7 @@ cd noflix
 ```
 
 The signed APK will be located at:
+
 ```
 app/build/outputs/apk/release/app-release.apk
 ```
@@ -78,16 +78,17 @@ app/build/outputs/apk/release/app-release.apk
 ```
 
 Output location:
+
 ```
 app/build/outputs/bundle/release/app-release.aab
 ```
 
 ## 📥 Installation
 
-1. Go to the [**Releases page**](https://github.com/Kirakiller1547/Noflix/releases)
-2. Download the latest `.apk` file (e.g. [v1.0.0](https://github.com/Kirakiller1547/Noflix/releases/tag/v1.0.0))
-3. Enable **Install from unknown sources** on your Android device (Settings → Security)
-4. Open the downloaded APK and install
+1. Go to the [Releases page](https://github.com/Kirakiller1547/Noflix/releases).
+2. Download the latest `.apk` file (e.g. [v1.0.0](https://github.com/Kirakiller1547/Noflix/releases/tag/v1.0.0)).
+3. Enable **Install from unknown sources** on your Android device (Settings → Security).
+4. Open the downloaded APK and install it.
 
 Alternatively, build the APK yourself from source using the steps above.
 
@@ -98,14 +99,14 @@ See the full changelog and assets on the [v1.0.0 release page](https://github.co
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin
-- **UI:** Jetpack Compose / XML _(update as applicable)_
+- **UI:** Jetpack Compose
 - **Architecture:** MVVM
 - **Build System:** Gradle (Kotlin DSL)
 
 ## 📱 Supported Android Versions
 
 | Android Version | API Level | Supported |
-|------------------|-----------|-----------|
+|---|---|---|
 | Android 7.0 (Nougat) | 24 | ✅ |
 | Android 10 | 29 | ✅ |
 | Android 12 | 31 | ✅ |
@@ -113,42 +114,31 @@ See the full changelog and assets on the [v1.0.0 release page](https://github.co
 
 ## ⚠️ Disclaimer & Terms of Use
 
-This project is developed strictly for **educational, research, and self-learning purposes** (Weiterbildung / Proof of Concept). It is not intended for commercial use, nor is it meant to facilitate copyright infringement.
-
-
-# Disclaimer
+This project is developed strictly for educational, research, and self-learning purposes. It is not intended for commercial use, and it is not meant to facilitate copyright infringement.
 
 By using this application, you acknowledge and agree to the following:
 
-* **No Content Hosting** — This application functions solely as a bookmark and launcher for websites specified by the user. It does not host, store, cache, stream, distribute, or otherwise provide any media files or content.
-
-* **User-Added Links** — Website links and associated icons may be added or modified by users. The developer does not review, verify, endorse, or control user-added links or the content available through them.
-
-* **Third-Party Websites** — All websites accessed through this application are operated by independent third parties. The developer has no control over and assumes no responsibility for the availability, accuracy, legality, privacy policies, practices, or content of any third-party website or service.
-
-* **No Affiliation** — The developer is not affiliated with, sponsored by, or endorsed by any third-party website accessible through this application.
-
-* **User Responsibility** — You are solely responsible for the websites you choose to access and for complying with all applicable laws, copyright laws, and the terms of service of those websites. Accessing copyrighted material without proper authorization may be illegal in your jurisdiction.
-
-* **Use at Your Own Risk** — Your use of this application is entirely at your own risk. The developer assumes no responsibility for how the application is used or for any consequences arising from its use.
-
-* **As-Is Basis** — This application is provided "as is" and "as available," without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. To the fullest extent permitted by applicable law, the developer disclaims all liability for any claims, damages, losses, or legal consequences arising from the use of this application or any third-party websites accessed through it.
-
-
+- **No content hosting.** This application functions solely as a bookmark manager and launcher for websites specified by the user. It does not host, store, cache, stream, distribute, or otherwise provide any media files or content.
+- **User-added links.** Website links and associated icons may be added or modified by users. The developer does not review, verify, endorse, or control user-added links or the content available through them.
+- **Third-party websites.** All websites accessed through this application are operated by independent third parties. The developer has no control over, and assumes no responsibility for, the availability, accuracy, legality, privacy policies, practices, or content of any third-party website or service.
+- **No affiliation.** The developer is not affiliated with, sponsored by, or endorsed by any third-party website accessible through this application.
+- **User responsibility.** You are solely responsible for the websites you choose to access and for complying with all applicable laws, copyright laws, and the terms of service of those websites. Accessing copyrighted material without proper authorization may be illegal in your jurisdiction.
+- **Use at your own risk.** Your use of this application is entirely at your own risk. The developer assumes no responsibility for how the application is used or for any consequences arising from its use.
+- **As-is basis.** This application is provided "as is" and "as available," without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. To the fullest extent permitted by applicable law, the developer disclaims all liability for any claims, damages, losses, or legal consequences arising from use of this application or any third-party websites accessed through it.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue first to discuss what you'd like to change.
 
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork the repo.
+2. Create your feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request.
 
 ## 📄 License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## 📬 Contact
 
