@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e1053da8-974b-4945-8794-272d101f7803" alt="Noflix Logo" width="150"/>
+<img width="1280" height="1280" alt="presplash" src="https://github.com/user-attachments/assets/f51d012d-beb4-4948-b4ae-703233e6d672" alt="Noflix Logo" width="150"/>
+
 
 # Noflix
 
