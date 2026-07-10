@@ -12,7 +12,7 @@
 [![Min SDK](https://img.shields.io/badge/minSdk-24-orange)](https://developer.android.com/tools/releases/platforms)
 [![Downloads](https://img.shields.io/github/downloads/Kirakiller1547/Noflix/total)](https://github.com/Kirakiller1547/Noflix/releases)
 
-**📦 [Download the latest release →](https://github.com/Kirakiller1547/Noflix/releases/latest)**
+**📦 [Download the latest release →]([https://github.com/Kirakiller1547/Noflix/releases/latest](https://github.com/Kirakiller1547/Noflix/releases/tag/v1.0.0))**
 
 </div>
 
